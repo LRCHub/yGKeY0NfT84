@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "All Right",
+  "base_artist": "Christopher Cross",
+  "createdAt": "2026-02-23T05:12:02.946407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Think Twice, It's All Right",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/01_Don't_Think_Twice,_It's_All_Right_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's All Right",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/02_It's_All_Right_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Wanna Make It All Right",
+      "artist": "The Jon Spencer Blues Explosion",
+      "has_synced": false,
+      "path": "select/03_I_Wanna_Make_It_All_Right_The_Jon_Spencer_Blues_Explosion.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doing All Right",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_Doing_All_Right_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Think Twice, It's All Right",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/05_Don't_Think_Twice,_It's_All_Right_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's All Wrong, but It's All Right",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_It's_All_Wrong,_but_It's_All_Right_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Night's All Right",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/07_All_Night's_All_Right_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Right Now",
+      "artist": "Pepsi & Shirlie",
+      "has_synced": false,
+      "path": "select/08_All_Right_Now_Pepsi_&_Shirlie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Right Now",
+      "artist": "Angel Olsen",
+      "has_synced": false,
+      "path": "select/09_All_Right_Now_Angel_Olsen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Right / Not Quite",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/10_All_Right___Not_Quite_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Think Twice, It's All Right",
+      "artist": "Susan Tedeschi",
+      "has_synced": false,
+      "path": "select/11_Don't_Think_Twice,_It's_All_Right_Susan_Tedeschi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Right",
+      "artist": "Motel Connection",
+      "has_synced": false,
+      "path": "select/12_All_Right_Motel_Connection.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Manta Ray Is All Right - Demo 2",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/13_My_Manta_Ray_Is_All_Right_-_Demo_2_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Manta Ray Is All Right",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/14_My_Manta_Ray_Is_All_Right_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That's All Right Mama",
+      "artist": "Canned Heat",
+      "has_synced": false,
+      "path": "select/15_That's_All_Right_Mama_Canned_Heat.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Right",
+      "artist": "Room Eleven",
+      "has_synced": false,
+      "path": "select/16_All_Right_Room_Eleven.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Its All Right (Preaching Paris)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/17_Its_All_Right_(Preaching_Paris)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's All Right",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/18_It's_All_Right_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Right",
+      "artist": "Christopher Cross",
+      "has_synced": false,
+      "path": "select/pl_01_All_Right_Christopher_Cross.txt"
+    }
+  ]
+}
